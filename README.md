@@ -39,7 +39,10 @@ squareroot()
 ```
 
 ## Output:
+![Screenshot (204)](https://github.com/Anusharonselva/Square-root-of-a-number/assets/119405600/0dc64c27-9dc3-4208-9441-5d78f80f60e8)
 ![gcd of two number](gcd.png)
+
+
 
 
 ## Result:
